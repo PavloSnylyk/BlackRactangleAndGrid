@@ -1,0 +1,14 @@
+c:\users\оля\documents\visual studio 2015\Projects\GridWithBlackSquare\GridWithBlackSquare\bin\Debug\GridWithBlackSquare.exe.config
+c:\users\оля\documents\visual studio 2015\Projects\GridWithBlackSquare\GridWithBlackSquare\bin\Debug\GridWithBlackSquare.exe
+c:\users\оля\documents\visual studio 2015\Projects\GridWithBlackSquare\GridWithBlackSquare\bin\Debug\GridWithBlackSquare.pdb
+c:\users\оля\documents\visual studio 2015\Projects\GridWithBlackSquare\GridWithBlackSquare\obj\Debug\GridWithBlackSquare.csprojResolveAssemblyReference.cache
+c:\users\оля\documents\visual studio 2015\Projects\GridWithBlackSquare\GridWithBlackSquare\obj\Debug\MainWindow.g.cs
+c:\users\оля\documents\visual studio 2015\Projects\GridWithBlackSquare\GridWithBlackSquare\obj\Debug\App.g.cs
+c:\users\оля\documents\visual studio 2015\Projects\GridWithBlackSquare\GridWithBlackSquare\obj\Debug\GridWithBlackSquare_MarkupCompile.cache
+c:\users\оля\documents\visual studio 2015\Projects\GridWithBlackSquare\GridWithBlackSquare\obj\Debug\GridWithBlackSquare_MarkupCompile.lref
+c:\users\оля\documents\visual studio 2015\Projects\GridWithBlackSquare\GridWithBlackSquare\obj\Debug\MainWindow.baml
+c:\users\оля\documents\visual studio 2015\Projects\GridWithBlackSquare\GridWithBlackSquare\obj\Debug\GridWithBlackSquare.g.resources
+c:\users\оля\documents\visual studio 2015\Projects\GridWithBlackSquare\GridWithBlackSquare\obj\Debug\GridWithBlackSquare.Properties.Resources.resources
+c:\users\оля\documents\visual studio 2015\Projects\GridWithBlackSquare\GridWithBlackSquare\obj\Debug\GridWithBlackSquare.csproj.GenerateResource.Cache
+c:\users\оля\documents\visual studio 2015\Projects\GridWithBlackSquare\GridWithBlackSquare\obj\Debug\GridWithBlackSquare.exe
+c:\users\оля\documents\visual studio 2015\Projects\GridWithBlackSquare\GridWithBlackSquare\obj\Debug\GridWithBlackSquare.pdb
